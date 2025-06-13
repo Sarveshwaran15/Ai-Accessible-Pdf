@@ -1,0 +1,17 @@
+.container {
+  margin: 3rem auto;
+  max-width: 600px;
+  padding: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  text-align: center;
+}
+input, button {
+  margin: 1rem 0;
+  padding: 0.5rem;
+}
+pre {
+  background: #f3f3f3;
+  padding: 1rem;
+  white-space: pre-wrap;
+}
